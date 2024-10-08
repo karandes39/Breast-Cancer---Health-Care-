@@ -1,1 +1,2 @@
 # Breast-Cancer---Health-Care-
+The Breast cancer diagnosis tumors can be separated as benign or malignant with the help of logistic regression depending on some characteristics, such as clump thickness and cell size uniformity. Automating this process gives the model explainable outcomes that help medical personnel, the Mean Squared Error results, and the confusion matrix aids in verifying its precision. 
